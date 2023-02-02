@@ -11,3 +11,6 @@ console.log("End of training");
 state of git:
 ------------
   working dir -> staging area -> local repo 
+
+
+  sdfasdfsadfsdf
