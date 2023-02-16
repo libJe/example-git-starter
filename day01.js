@@ -6,5 +6,3 @@ while (true) {
 }
 
 console.log("End of training");
-
-console.log("End of training");
