@@ -1,0 +1,14 @@
+{
+  "name": "example-git-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day01.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
